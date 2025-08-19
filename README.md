@@ -1,3 +1,3 @@
-Assets for addon serpul.co.id
+Assets for addon website serpul.co.id
 - whatsapp
 - serpulcoid
