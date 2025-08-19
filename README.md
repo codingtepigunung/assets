@@ -1,2 +1,1 @@
-# assets
-Asset Files
+Assets for addon serpul.co.id
